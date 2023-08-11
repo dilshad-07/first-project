@@ -64,15 +64,15 @@ section{
 }
 
 .bg1{
-    background-image: url(https://i.ibb.co/Hh5CFRp/sport-1.jpg);
+    background-image: url(./assets/sport-1.jpg);
 }
 
 .bg2{
-    background-image: url(https://i.ibb.co/fpYsxzf/sport-2.jpg);
+    background-image: url(./assets/sport-2.jpg);
 }
 
 .bg3{
-    background-image: url(https://i.ibb.co/5KJmkWF/sport-3.jpg);
+    background-image: url(./assets/sport-3.jpg);
 }
 
 .secHeading{
